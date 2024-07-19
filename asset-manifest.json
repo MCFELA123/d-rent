@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/Drent/static/css/main.14ccfbc6.css",
+    "main.js": "/Drent/static/js/main.267758de.js",
+    "static/media/SF-Pro-Rounded-Medium.otf": "/Drent/static/media/SF-Pro-Rounded-Medium.37012c1f760732d3daba.otf",
+    "static/media/SF-Pro-Rounded-Heavy.otf": "/Drent/static/media/SF-Pro-Rounded-Heavy.fcd73a717e0b9ce52375.otf",
+    "static/media/SF-Pro-Rounded-Bold.otf": "/Drent/static/media/SF-Pro-Rounded-Bold.a467dbaac5b4a0fe0bad.otf",
+    "static/media/SF-Pro-Rounded-Light.otf": "/Drent/static/media/SF-Pro-Rounded-Light.68d45282308d21be586a.otf",
+    "static/media/mini-two.png": "/Drent/static/media/mini-two.9ce519b121674bcf4fac.png",
+    "static/media/pngimg.com - mavic_PNG18.png": "/Drent/static/media/pngimg.com - mavic_PNG18.0da0e43011663eeb44fd.png",
+    "static/media/air2.png": "/Drent/static/media/air2.47c9efb035bfc0799f09.png",
+    "static/media/drone.jpg": "/Drent/static/media/drone.246b786cf6462db7df61.jpg",
+    "static/media/john-doe.jpg": "/Drent/static/media/john-doe.6419dd0712d26f16611c.jpg",
+    "index.html": "/Drent/index.html",
+    "main.14ccfbc6.css.map": "/Drent/static/css/main.14ccfbc6.css.map",
+    "main.267758de.js.map": "/Drent/static/js/main.267758de.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.14ccfbc6.css",
+    "static/js/main.267758de.js"
+  ]
+}
